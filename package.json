@@ -16,7 +16,8 @@
   },
   "keywords": [
     "babel",
-    "es6"
+    "es6",
+    "heroku"
   ],
   "author": "Grace birindwa",
   "license": "ISC",
@@ -37,5 +38,8 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-stage-0": "^6.24.1",
     "nodemon": "^2.0.7"
+  },
+  "engines": {
+    "node": "v14.15.4"
   }
 }
